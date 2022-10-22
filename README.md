@@ -9,3 +9,7 @@ storybook/deployer
 addons a11y
 # Pacote para variações de classes com tailwind
  npm i clsx
+
+ # mock
+
+ 
