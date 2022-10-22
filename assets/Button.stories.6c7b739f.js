@@ -1,0 +1,2 @@
+import{B as t}from"./index.51c1a0a6.js";import"./clsx.m.e9e24f27.js";import"./index.e2ae53dd.js";import"./iframe.3cdaab12.js";import"./jsx-runtime.ac08dce0.js";const i={title:"Components/Button",component:t,args:{children:"Lorem ipsun",size:"sm"},argTypes:{size:{options:["sm","md","lg"],control:{type:"inline-radio"}}}},m={},p=["Default"];export{m as Default,p as __namedExportsOrder,i as default};
+//# sourceMappingURL=Button.stories.6c7b739f.js.map
